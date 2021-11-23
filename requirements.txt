@@ -1,0 +1,3 @@
+discord
+asyncio
+configparser # Comes with python but just to be safe.
