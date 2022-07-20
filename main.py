@@ -5,7 +5,6 @@ import os
 
 #
 # Any issues feel free to message my discord Otter#7070
-# or join my server https://discord.gg/G5ACnxn68z
 #
 
 # Config template
